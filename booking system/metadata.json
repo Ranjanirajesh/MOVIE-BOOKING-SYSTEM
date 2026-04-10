@@ -1,0 +1,5 @@
+{
+  "name": "CineReserve",
+  "description": "A comprehensive movie booking system featuring real-time seat selection, movie management, and user authentication.",
+  "requestFramePermissions": []
+}
